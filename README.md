@@ -1,2 +1,2 @@
-# Dataset-Generator-Application
-This code can generate dataset from any image. 
+# Dataset_Generator_Application
+This application can generate dataset from any hand-written image. 
